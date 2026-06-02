@@ -19,3 +19,33 @@ Features
 
 📊 Visualization of learning and pathfinding behavior
 
+How It Works
+
+Q-Learning
+
+The drone learns through trial and error by interacting with the environment and updating its Q-values based on rewards and penalties.
+
+A* Search
+
+A* is used to calculate the shortest path between the drone's current position and the target while considering obstacles.
+
+Combined Approach
+
+A* provides an efficient route.
+
+Q-Learning helps the drone adapt and improve navigation decisions over time.
+
+Together, they create a more intelligent and autonomous navigation system.
+
+Project Structure
+
+├── index.html
+
+├── style.css
+
+├── script.js
+
+├── assets/
+│   └── images/
+
+└── README.md
