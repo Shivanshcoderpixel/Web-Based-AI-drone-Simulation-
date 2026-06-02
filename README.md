@@ -49,3 +49,41 @@ Project Structure
 │   └── images/
 
 └── README.md
+
+Usage
+
+Launch the simulation.
+
+Set the start and target positions.
+
+Add obstacles if desired.
+
+Run the simulation.
+
+Observe how the drone uses Q-Learning and A* Search to reach the destination.
+
+Future Improvements
+
+Multiple drone support
+
+Dynamic moving obstacles
+
+Advanced reinforcement learning algorithms
+
+Performance analytics dashboard
+
+3D environment visualization
+
+Learning Outcomes
+
+This project demonstrates:
+
+Reinforcement Learning fundamentals
+
+Pathfinding algorithms
+
+Autonomous agent behavior
+
+Browser-based AI simulations
+
+Real-time visualization techniques
