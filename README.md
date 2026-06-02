@@ -6,10 +6,16 @@ The simulation runs entirely in the browser using JavaScript and provides real-t
 
 Features
 🧠 Q-Learning Implementation for autonomous learning
+
 📍 A* Search Algorithm for optimal pathfinding
+
 🚧 Obstacle detection and avoidance
+
 🚁 Autonomous drone navigation
+
 ⚡ Real-time route optimization
+
 🎮 Interactive web-based simulation
+
 📊 Visualization of learning and pathfinding behavior
 
